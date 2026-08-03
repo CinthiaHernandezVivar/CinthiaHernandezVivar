@@ -3,7 +3,7 @@
 Computer Science student at California State University, Chico.
 I'm passionate about learning software engineering and computer vision by building projects from the ground up. I enjoy understanding how things work instead of just using them.
   
-### 🧠 Currently Learning 
+## 🧠 Currently Learning 
 - Image processing
 - Computer vision
 - Software development best practices
