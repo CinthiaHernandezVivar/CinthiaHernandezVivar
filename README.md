@@ -41,10 +41,6 @@ I'm passionate about learning software engineering and computer vision by buildi
 - Computer vision
 - Software development best practices
 
-### Connect with Me
-- LinkedIn: [Cinthia Hernandez Vivar] (https://www.linkedin.com/in/cinthia-hernandez-vivar-a91845278)
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinthia-hernandez-vivar-a91845278)
