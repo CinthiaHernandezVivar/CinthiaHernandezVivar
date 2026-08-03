@@ -45,6 +45,7 @@ I'm passionate about learning software engineering and computer vision by buildi
 - LinkedIn: [Cinthia Hernandez Vivar] (https://www.linkedin.com/in/cinthia-hernandez-vivar-a91845278)
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cinthia-hernandez-vivar-a91845278) 
 
@@ -56,6 +57,6 @@ I'm passionate about learning software engineering and computer vision by buildi
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CinthiaHernandezVivar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=CinthiaHernandezVivar&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=CinthiaHernandezVivar&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
